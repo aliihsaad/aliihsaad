@@ -53,10 +53,13 @@ Completed September 3, 2026 · 400+ hours
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=aliihsaad&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=aliihsaad&theme=dark&hide_border=false)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aliihsaad&theme=github_dark" alt="GitHub contribution summary" width="100%" />
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aliihsaad&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aliihsaad&theme=github_dark" alt="GitHub stats" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=aliihsaad&theme=dark&hide_border=true" alt="GitHub contribution streak" width="49%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aliihsaad&theme=github_dark" alt="Most used languages in commits" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aliihsaad&theme=github_dark" alt="Languages across repositories" width="49%" />
 
 </div>
 
